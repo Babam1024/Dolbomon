@@ -1,13 +1,1 @@
-{
-  "version": "preview-20261108",
-  "built_at": "2026-11-07T23:13:41.289543+00:00",
-  "login_required": false,
-  "data": "examples only",
-  "features": [
-    "service-period rescheduling",
-    "caregiver filters and profiles",
-    "review photos",
-    "agency document review",
-    "agency integrated calendar"
-  ]
-}
+{"version": "2026-11-08-browser-app", "storage": "IndexedDB", "loginRequired": false, "realPayments": false}
