@@ -1,1 +1,1 @@
-{"version": "2026-11-08-browser-app", "storage": "IndexedDB", "loginRequired": false, "realPayments": false}
+{"version": "2026-11-08-calendar-range-no-buffer", "storage": "IndexedDB", "loginRequired": false, "realPayments": false, "bufferDays": 0, "calendarRangeSelection": true}
