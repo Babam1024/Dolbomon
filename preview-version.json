@@ -1,1 +1,1 @@
-{"version": "2026-11-08-calendar-range-no-buffer", "storage": "IndexedDB", "loginRequired": false, "realPayments": false, "bufferDays": 0, "calendarRangeSelection": true}
+{"version": "2026-11-08-daily-booking-training", "storage": "IndexedDB", "loginRequired": false, "realPayments": false, "individualDates": true, "weekendOptions": {"FULL": {"hours": 8, "multiplier": 1.5}, "SHORT": {"hours": 5, "minutes": 20, "multiplier": 1}}, "trainingEnrollment": true}
